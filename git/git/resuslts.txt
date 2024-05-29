@@ -1,0 +1,7 @@
+1 Ivanov Ivan Ivanovich 12.00.00 14.05.79 "Spartak"
+2 Petrov Petr Petrovich 13.00.00 15.07.80 "Dynamo"  
+3 Sidorova Olga Sergeevna 14.00.00 15.03.85 "Spartak"  
+4 Kuznetsov Dmitry Alexandrovich 15.00.00 12.12.88 "CSKA"  
+5 Smirnova Anna Ivanovna 16.00.00 17.09.91 "Spartak" 
+6 Volkova Maria Nikolaevna 17.00.00 20.11.95 "Rubin"  
+7 Karpov Nikolay Petrovich 18.00.00 19.04.78 "Krasnodar"  
