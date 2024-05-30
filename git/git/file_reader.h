@@ -3,6 +3,6 @@
 
 #include "marathon.h"
 
-void read(const char* file_name, book_subscription* array[], int& size);
+void read(const char* file_name, m_result* array[], int& size);
 
 #endif
