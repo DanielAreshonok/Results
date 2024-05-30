@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE4E6B1D2C08780E004844DC /* file_reader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE4E6B1C2C08780E004844DC /* file_reader.cpp */; };
 		FE6104042C07CCCC00BD8934 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE6104032C07CCCC00BD8934 /* main.cpp */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,8 @@
 		FE4E6B182C086D6C004844DC /* data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = data.txt; sourceTree = "<group>"; };
 		FE4E6B192C087027004844DC /* constants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = constants.h; sourceTree = "<group>"; };
 		FE4E6B1A2C087083004844DC /* marathon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = marathon.h; sourceTree = "<group>"; };
+		FE4E6B1B2C0877CB004844DC /* file_reader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = file_reader.h; sourceTree = "<group>"; };
+		FE4E6B1C2C08780E004844DC /* file_reader.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = file_reader.cpp; sourceTree = "<group>"; };
 		FE6104002C07CCCC00BD8934 /* git */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = git; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE6104032C07CCCC00BD8934 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +64,8 @@
 			isa = PBXGroup;
 			children = (
 				FE6104032C07CCCC00BD8934 /* main.cpp */,
+				FE4E6B1C2C08780E004844DC /* file_reader.cpp */,
+				FE4E6B1B2C0877CB004844DC /* file_reader.h */,
 				FE4E6B1A2C087083004844DC /* marathon.h */,
 				FE4E6B192C087027004844DC /* constants.h */,
 				FE4E6B182C086D6C004844DC /* data.txt */,
@@ -125,6 +130,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE4E6B1D2C08780E004844DC /* file_reader.cpp in Sources */,
 				FE6104042C07CCCC00BD8934 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

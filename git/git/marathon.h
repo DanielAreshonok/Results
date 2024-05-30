@@ -1,14 +1,14 @@
 //структуры
-#ifndef BOOK_SUBSCRIPTION_H
-#define BOOK_SUBSCRIPTION_H
+#ifndef MARATHON_H
+#define MARATHON_H
 
 #include "constants.h"
 
-struct time
+struct date
 {
-    int min;
-    int sec;
-    int milsec;
+    int day;
+    int month;
+    int year;
 };
 
 struct person
@@ -18,13 +18,13 @@ struct person
     char last_name[MAX_STRING_SIZE];
 };
 
-struct results
+struct book_subscription
 {
-    int number;
-    person competitor;
-    time start;
-    time finish;
-    char club[MAX_STRING_SIZE];
+    person reader;
+    date start;
+    date finish;
+    person author;
+    char title[MAX_STRING_SIZE];
 };
 
 #endif
