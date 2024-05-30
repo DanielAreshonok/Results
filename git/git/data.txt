@@ -1,0 +1,7 @@
+1 Ivanov Ivan Ivanovich 11:00:00 12:30:00 “Spartak”
+2 Petrov Petr Petrovich 09:00:00 10:30:00 “Dynamo”
+3 Sidorov Sidor Sidorovich 10:00:00 11:30:00 “Spartak”
+4 Kuznetsova Anna Ivanovna 12:00:00 14:30:00 “Zenit”
+5 Fedorova Maria Petrovna 13:00:00 15:35:00 “Spartak”
+6 Smirnov Alexey Alexandrovich 14:00:00 17:30:00 “Krasnodar”
+7 Ivanova Olga Sergeevna 15:00:00 17:47:00 “Rubin”
