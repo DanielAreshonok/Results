@@ -5,3 +5,5 @@
 5 Fedorova Maria Petrovna 13:00:00 15:35:00 “Spartak”
 6 Smirnov Alexey Alexandrovich 14:00:00 17:30:00 “Krasnodar”
 7 Ivanova Olga Sergeevna 15:00:00 17:47:00 “Rubin”
+8 Ivanov Sergey Ivanovich 14:00:00 15:47:00 “Rubin”
+9 Kokosova Irina Mikhailovna 14:00:00 15:57:00 “Spartak”
